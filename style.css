@@ -1,0 +1,25 @@
+header{
+    background-color: #6B3838;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+a{
+    text-decoration: none;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.logo{
+    height: 100px;
+    width: 100px;
+}
+
+nav{
+    width: 20%;
+}
